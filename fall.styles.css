@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    background-color: rgb(235, 151, 121);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.title {
+    padding: 22px;
+    font-size: 48px;
+    border-bottom: 4px solid black;
+    border-top: 6px solid black;
+    border-left: 4px solid black;
+    border-right: 4px solid black;
+    
+}
+.toprow {
+    margin: 100px;
+    margin-top: 60px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+}
+.topunder {
+    right: 33%;
+    position: relative;
+}
+.topunder1 {
+    top: 561px;
+   right: 635px;
+position: absolute;
+}
+.topunder2 {
+right: 530px;
+top: 591px ;
+position: absolute;
+}
+.topunder3 {
+right: 678px;
+position: absolute;
+top: 617px;
+margin-bottom: 200px;
+}
+.topunder4 {
+    right: 160px;
+    top: 561px;
+    position: absolute;
+}
+.topunder5 {
+    right: 55.5px;
+    top: 591px;
+    position: absolute;
+}
+.topunder6 {
+    right: 199px;
+    position: absolute;
+    top:617px;
+}
+.secondrow {
+    margin: 90px;
+    margin-top: 50px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+}
+.secondunder {
+    right: 33%;
+    position: relative;
+z-index:5;
+}
+.secondunder1 {
+    top: 1045px;
+   right: 655px;
+position: absolute;
+z-index:5;
+}
+.secondunder2 {
+right: 525px;
+top: 1075px ;
+position: absolute;
+z-index:5;
+}
+.secondunder3 {
+right: 678px;
+position: absolute;
+top: 1101px;
+margin-bottom: 200px;
+z-index:5;
+}
+.secondunder4 {
+    right: 175px;
+    top: 1045px;
+    position: absolute;
+    z-index: 5;
+}
+.secondunder5 {
+    right: 55.5px;
+    top: 1075px;
+    position: absolute;
+z-index: 5;
+}
+.secondunder6 {
+    right: 199px;
+    position: absolute;
+    top:1101px;
+z-index: 5;
+}
+.thirdrow {
+    margin: 90px;
+    margin-top: 50px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+}
+.thirdunder {
+    right: 33%;
+    position: relative;
+z-index:5;
+top: 27px;
+}
+.thirdunder7 {
+    z-index: 6;
+    position: absolute;
+    top: 1530px;
+    left: 165px;
+}
+.thirdunder1 {
+    top: 1530px;
+   right: 655px;
+position: absolute;
+z-index:5;
+}
+.thirdunder2 {
+right: 525px;
+top: 1560px ;
+position: absolute;
+z-index:5;
+}
+.thirdunder3 {
+right: 670px;
+position: absolute;
+top: 1585px;
+margin-bottom: 200px;
+z-index:5;
+}
+.thirdunder4 {
+    right: 180px;
+    top: 1530px;
+    position: absolute;
+    z-index: 5;
+}
+.thirdunder5 {
+    right: 55.5px;
+    top: 1560px;
+    position: absolute;
+z-index: 5;
+}
+.thirdunder6 {
+    right: 199px;
+    position: absolute;
+    top:1585px;
+z-index: 5;
+}
